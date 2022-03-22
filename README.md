@@ -1,8 +1,6 @@
 # beamer
 
-A new Flutter project.
-
-## Getting Started
+Beamer App is the project we started in our flutter training at Nanocodes LTD.
 
 
 
